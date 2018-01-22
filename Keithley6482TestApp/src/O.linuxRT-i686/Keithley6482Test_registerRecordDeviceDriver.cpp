@@ -308,7 +308,7 @@ static struct iocshVarDef vardefs[] = {
 int Keithley6482Test_registerRecordDeviceDriver(DBBASE *pbase)
 {
     static int executed = 0;
-    const char *bldTop = "/afs/slac.stanford.edu/u/cd/carolina/PICOAMMETER_TEST/Keithley6482/Keithley6482-git";
+    const char *bldTop = "/afs/slac.stanford.edu/g/lcls/vol8/epics/iocTop/users/carolina/Keithley6482/Keithley6482-git";
     const char *envTop = getenv("TOP");
 
     if (envTop && strcmp(envTop, bldTop)) {

@@ -50,23 +50,23 @@
     /afs/slac/g/lcls/epics/base/R3.15.5-1.0/dbd/devSoft.dbd \
     /afs/slac/g/lcls/epics/base/R3.15.5-1.0/dbd/asSub.dbd \
     /afs/slac/g/lcls/epics/base/R3.15.5-1.0/dbd/dbCore.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/streamdevice/R2.7.7-0.1/dbd/stream.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/asyn.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/asynRecord.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devEpics.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynOctet.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynInt32.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynInt8Array.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynInt16Array.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynInt32Array.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynInt32TimeSeries.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynFloat64.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynFloat32Array.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynFloat64Array.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynFloat64TimeSeries.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynUInt32Digital.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynRecord.dbd \
-    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/drvAsynIPPort.dbd
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/streamdevice/R2.7.7-0.2/dbd/stream.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/asyn.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/asynRecord.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devEpics.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynOctet.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynInt32.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynInt8Array.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynInt16Array.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynInt32Array.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynInt32TimeSeries.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynFloat64.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynFloat32Array.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynFloat64Array.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynFloat64TimeSeries.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynUInt32Digital.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynRecord.dbd \
+    /afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/drvAsynIPPort.dbd
 
 /afs/slac/g/lcls/epics/base/R3.15.5-1.0/dbd/base.dbd:
 /afs/slac/g/lcls/epics/base/R3.15.5-1.0/dbd/menuGlobal.dbd:
@@ -120,21 +120,21 @@
 /afs/slac/g/lcls/epics/base/R3.15.5-1.0/dbd/devSoft.dbd:
 /afs/slac/g/lcls/epics/base/R3.15.5-1.0/dbd/asSub.dbd:
 /afs/slac/g/lcls/epics/base/R3.15.5-1.0/dbd/dbCore.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/streamdevice/R2.7.7-0.1/dbd/stream.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/asyn.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/asynRecord.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devEpics.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynOctet.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynInt32.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynInt8Array.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynInt16Array.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynInt32Array.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynInt32TimeSeries.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynFloat64.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynFloat32Array.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynFloat64Array.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynFloat64TimeSeries.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynUInt32Digital.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/devAsynRecord.dbd:
-/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.30-0.3.0/dbd/drvAsynIPPort.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/streamdevice/R2.7.7-0.2/dbd/stream.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/asyn.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/asynRecord.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devEpics.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynOctet.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynInt32.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynInt8Array.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynInt16Array.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynInt32Array.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynInt32TimeSeries.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynFloat64.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynFloat32Array.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynFloat64Array.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynFloat64TimeSeries.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynUInt32Digital.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/devAsynRecord.dbd:
+/afs/slac/g/lcls/epics/R3.15.5-1.0/modules/asyn/R4.31-0.1.0/dbd/drvAsynIPPort.dbd:
 ../O.Common/Keithley6482Test.dbd: ../Makefile
