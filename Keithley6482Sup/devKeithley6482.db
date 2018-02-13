@@ -110,7 +110,7 @@ record(ai, "$(P)$(R)Measure")
     field(INP,  "@devKeithley6482.proto measureCurrent $(PORT) $(A)")
     field(EGU,  "A")
     field(PREC, "5")
-    info(autosaveFields,"VAL")
+    info(autosaveFields,"SCAN")
 }
 record(waveform, "$(P)$(R)FetchWF")
 {
