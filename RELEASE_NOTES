@@ -1,3 +1,7 @@
+R0.0.4: 2/14/2018 Carolina Bianchini
+        Removing autosave from configure/RELEASE and few o.* obsolete files.
+	Adding .gitignore file.
+
 R0.0.3: 2/12/2018 Carolina Bianchini
 	Adding autosave restore per PicoAmmeter Measure.SCAN value.
 
