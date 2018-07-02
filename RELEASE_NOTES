@@ -1,3 +1,6 @@
+R0.0.5: 6/29/2018 Dan Sciortino
+	Updated Measure record with HIHI and LOLO alarm values
+
 R0.0.4: 2/14/2018 Carolina Bianchini
         Removing autosave from configure/RELEASE and few o.* obsolete files.
 	Adding .gitignore file.
