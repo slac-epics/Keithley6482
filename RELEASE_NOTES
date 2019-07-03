@@ -1,3 +1,7 @@
+R0.0.6: 7/03/2019 Carolina Bianchini
+	Changed Measure PV with I for current
+	Upgraded the module to EPICS V7
+
 R0.0.5: 6/29/2018 Dan Sciortino
 	Updated Measure record with HIHI and LOLO alarm values
 

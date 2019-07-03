@@ -103,7 +103,7 @@ record(longin, "$(P)$(R)GetOPC")
 #
 # Reading
 #
-record(ai, "$(P)$(R)Measure")
+record(ai, "$(P)$(R)I")
 {
     field(DESC, "Measure current")
     field(DTYP, "stream")
