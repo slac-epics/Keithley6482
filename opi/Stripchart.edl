@@ -65,7 +65,7 @@ y2Max 1
 # Trace Properties
 numTraces 1
 yPv {
-  0 "$(P)$(R)Measure"
+  0 "$(P)$(R)I"
 }
 nPv {
   0 "100"
