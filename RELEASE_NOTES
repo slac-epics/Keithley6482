@@ -1,3 +1,7 @@
+R0.1.0: 7/16/2019 Marcio Donadio
+        - Configuration of autosave fields and removing alarm configuration
+          from database, as this values varies from application to application.
+
 R0.0.6: 7/03/2019 Carolina Bianchini
 	Changed Measure PV with I for current
 	Upgraded the module to EPICS V7
