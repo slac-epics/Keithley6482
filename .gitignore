@@ -1,10 +1,14 @@
 *~
-0.*
+O.*
 *.log
 *.swp
+*.bak
 bin/
+cfg/
 db/
 dbd/
+display/
+edl/
 html/
 include/
 lib/
@@ -13,3 +17,4 @@ cdCommands
 envPaths
 RELEASE_SITE
 tags
+startup/
